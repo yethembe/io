@@ -1,2 +1,1 @@
-# pashu.github.io
-fashion accessories
+labs for africa
